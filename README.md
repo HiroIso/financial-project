@@ -1,1 +1,1 @@
-# financial-inclusion-in-adrica
+# financial-inclusion-in-africa
