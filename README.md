@@ -1,4 +1,4 @@
-# Financial Inclusion in Africa (Kaggle) for SPICED Academy
+# Financial Inclusion in Africa (Kaggle Challenge)
 
 This is a challenge project from Kaggle
 
