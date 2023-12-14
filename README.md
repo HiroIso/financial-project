@@ -1,6 +1,6 @@
-# Financial Inclusion in Africa (Kaggle Challenge)
+# Financial Inclusion in Africa for SPICED Academy
 
-This is a challenge project from Kaggle
+This is a challenge project from [Zind](https://zindi.africa/competitions/financial-inclusion-in-africa)
 
 Requirements:
 - pyenv with Python: 3.11.3
