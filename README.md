@@ -1,5 +1,7 @@
 # Financial Inclusion in Africa for SPICED Academy
 
+The juoyter notebook file contains the whole process "EDA(exploratory data analysis) to evaluate a machine learning model" for this project.
+
 Requirements:
 - pyenv with Python: 3.11.3
 
